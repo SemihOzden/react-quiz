@@ -1,6 +1,6 @@
 
 # Project Description
- This website is created by Semih Özden for test purpose.
+ This project is created by Semih Özden for personal training purposes.
 
 # Dependencies to Run the App
 You should have following dependencies to run the program successfully.
